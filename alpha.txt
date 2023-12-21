@@ -1,0 +1,18 @@
+abcdefgh
+ijklmnmopqrstuvwxyz
+git
+the
+a
+an 
+repo
+local
+main
+master
+dev
+ABCDEFGH
+IJKLMNOPQRSTUVWXYZ
+GIT THE
+A 
+AN
+REPO
+MAIN
