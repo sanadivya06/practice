@@ -1,5 +1,5 @@
 initial file
 staging
-third line
-fourth line
+this is the third line
+
 
