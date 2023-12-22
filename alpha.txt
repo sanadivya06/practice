@@ -9,6 +9,8 @@ local
 main
 master
 dev
+
+s
 ABCDEFGH
 IJKLMNOPQRSTUVWXYZ
 GIT THE
