@@ -1,4 +1,5 @@
 initial file
 staging
 third line
+fourth line
 
