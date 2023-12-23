@@ -1,2 +1,1 @@
-sdf
 Merges the specified branch into the current branch. If there are no conflicts, it will create a new merge commit.
