@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Merges the specified branch into the current branch. If there are no conflicts, it will create a new merge commit.
+=======
+-> Basic Merge:
+
+git merge <branch>
+
+Merges the specified branch into the current branch. If there are no conflicts, it will create a new merge commit.
+>>>>>>> dev
